@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "project_number": "966579307607",
+    "firebase_url": "https://reale-e0163.firebaseio.com",
+    "project_id": "reale-e0163",
+    "storage_bucket": "reale-e0163.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966579307607:android:c4ac616627d3a90e1fcf12",
+        "android_client_info": {
+          "package_name": "com.brackets.reale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966579307607-315q127g9lm6g9asqj7m9k15va0utiqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brackets.reale",
+            "certificate_hash": "12df0b99306e4f81183d423681d9539582657082"
+          }
+        },
+        {
+          "client_id": "966579307607-4921dn8kjl246ll9tn6nc58g8dlicbiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brackets.reale",
+            "certificate_hash": "b77d2efdd39fe1385caed52f4462e17584862f44"
+          }
+        },
+        {
+          "client_id": "966579307607-658s3vre1el81hv68a6ca82u9rk3idkj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brackets.reale",
+            "certificate_hash": "94e2a6a619a0f7b52db3605d0d99c19bc233860a"
+          }
+        },
+        {
+          "client_id": "966579307607-ppdacmd2k3ho5ob31au5op7ug9qbpmpu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brackets.reale",
+            "certificate_hash": "b436a4fd162a42092662c3e56ba3f39053348651"
+          }
+        },
+        {
+          "client_id": "966579307607-qdqcsln12o7mpd21fm1jo07r2tcuvk6i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brackets.reale",
+            "certificate_hash": "d60fd6008a668b94dd10e14c4a8527a5649362b6"
+          }
+        },
+        {
+          "client_id": "966579307607-udhivth8i2kn8crho5no7d9ajp4faua9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brackets.reale",
+            "certificate_hash": "91c5652bdafab38aa85f4494bf02ee5414cc7b3c"
+          }
+        },
+        {
+          "client_id": "966579307607-bmjlg21hlisvtn94nv0qnof1iu5jf3gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYW1R_BqWI7w-wxip8quBnK1J-6yGofQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966579307607-bmjlg21hlisvtn94nv0qnof1iu5jf3gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
